@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "id": 101,
+            "name": "Iqoo Z9S",
+            "category": "SmartPhone",
+            "brand": "Vivo"
+        },
+        {
+            "id": 102,
+            "name": "Pixel 6a",
+            "category": "SmartPhone",
+            "brand": "Google"
+        },
+        {
+            "id": 103,
+            "name": "Lenovo IdeaPad 3",
+            "category": "Laptop",
+            "brand": "Lenovo"
+        },
+        {
+            "id": 104,
+            "name": "Iphone 13",
+            "category": "SmartPhone",
+            "brand": "Apple"
+        },
+        {
+            "id": 105,
+            "name": "LG80",
+            "category": "Television",
+            "brand": "LG"
+        }
+    ]
+}
